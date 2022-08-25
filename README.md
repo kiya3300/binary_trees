@@ -56,4 +56,5 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 
 ## Author
-* Abinet Tesfu    - [Abinet](https://github.com/Abinet508)
+* Abel Yitages    - [Abel](https://github.com/kiya3300)
+* Abenezer Eshetie - [Eben](https://github.com/EbenGitHub)
